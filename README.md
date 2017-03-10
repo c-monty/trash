@@ -7,4 +7,4 @@ Hi my name is Christian and I like spicy memes.
 
 ### Blog Post
 
-[continue reading](blog)
+[continue reading](index)
