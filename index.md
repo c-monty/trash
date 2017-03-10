@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Digital humanities is a movement which one must self identify with. It is a new way of looking at an old tool. It emerged as a new way to join a conversation in the academic field. Unfortunately this has lead to people who do not have any wish to participate in the digital humanities, complain about what digital humanities is and what it should be. In an article by Tara McPhearson, she raises light of a problem that she believes is central to everything. Race. Unfortunately for her, entering a new academic field and demanding it accommodate your specific area of expertise is not the most effective way to actually allow that field to accommodate you in reality. “In a hallway chat following our workshop, one scholar framed his dis-ease as a question: why are the digital humanities, well, so white?” (1 )This is framed as a rhetorical question however she follows this with a disclaimer that answers the question inadvertently. “To be fair, this was a workshop focused on the notion of tools and infrastructure, so one might not expect such discussions. Nonetheless, this essay will argue that we desperately need to close the gap between these two modes of inquiry.” (1)Yes. It would almost seem digital humanities means whatever is needed from it by whomever decides to apply its principles. In Kirshenbaums article, Digital humanities is sufficiently defined as: “The digital humanities, also known as humanities computing, is a field of study, research, teaching, and invention concerned with the intersection of computing and the disciplines of the humanities. It is methodological by nature and interdisciplinary in scope. It involves investigation, analysis, synthesis and presentation of information in electronic form. It studies how these media affect the disciplines in which they are used, and what these disciplines have to contribute to our knowledge of computing.” (2) Obviously, people who specialize in tools for infrastructure would use their understanding and worldview would use a medium such as digital humanities. The lecturers race has absolutely nothing to do with it because the digital humanities is not a an establishment. It is not a system in the same way a social justice advocate would expect. Ideas cannot simply be demanded into the framework of an abstract dialogue. In Mark Sample's post, he discusses facile thinking as standing opposed to critical thinking. “This facile thinking ignores contradictory evidence, dismisses alternative ways of seeing, and generally places its critiques of the digital humanities in the service of some other goal having little to do with either technology or the humanities.” (3) McPhearsons piece does not so much as ignore contradictory evidence, but rather omits any evidence all together. Observe her essay in voyant tool. For the fact that proving how a system of 1's and 0's can be racist, there does not seem to be any evidence in the words she uses. In fact it seems the only link she can come up with is that the words used in each respected field have similar meanings when taken completely out of context. A racial system of abuse and a computer system share the same word system yet contextually, do not share anything. Much like modularity is another divisive word with multiple meanings depending on the context. You would think a claim as wide and absurd as hers would yield words such as “evidence” and “discrimination” The entire piece is based on digital humanities being too white but ideas are not built by race, but individuals. Ideas are not judged on their colours but their merit. The “white people” whom she and her colleague observe are simply a subset of people interested in digital humanities who also have the skills to contribute. If she were not so busy voicing her disdain for computer science she would see that both her own specialization and computers must share a spot in history. Not everything needs to be spoken about in terms of race and not everything need be spoken about in terms of the history of computing. This is not to say she or her colleague cant contribute however. In fact they should contribute by using their ideological lens. The only issue with this is that I do not believe she understands her own bias in this situation. “very few audiences who care about one lens have much patience or tolerance for another” (1)This is an ironic statement to make as she is demonstrating it firsthand. Lenses allow us to see the world differently however consider placing two completely different lenses on top of each other. What you would see would be distorted and inaccurate. It is far more effective to look through a computer science lens when observing the history of computer science before applying a lens of race theory. Looking through just race theory leads to a facile thinking where the abstract concept of 1's and 0's can be considered racist based on computer processes and nothing to do with human interaction. I want to make this clear. Using computers to represent big data, trace history and so forth can be incredibly effective for those studying race and gender however it is up to them to apply their studies to digital humanities, not the other way around. The digital humanities is an open forum for anyone who wishes to contribute just like how she discusses people of colour entering older media and building their own representation. The sheer coincidence of its origins (or even the sheer coincidence of the colour of the people specifically at that one talk,) does not somehow reduce how inclusive it is.
 
-You can use the [editor on GitHub](https://github.com/c-monty/c-monty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Work Cited
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c-monty/c-monty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. McPhearson, Tara. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., n.d. Web. 10 Mar. 2017.
+2. Kirshenbaum, Matthew. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., n.d. Web. 10 Mar. 2017.
+3. Sample, Mark. "Debates in the Digital Humanities." Debates in the Digital Humanities. N.p., n.d. Web. 10 Mar. 2017.
